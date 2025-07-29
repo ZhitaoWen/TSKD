@@ -1,5 +1,13 @@
-The official implementation of ` A Triple Semantic-aware Knowledge Distillation Network for Industrial Defect Detection`.
 
+
+# <p align=center> `A Triple Semantic-aware Knowledge Distillation Network for Industrial Defect Detection` </p>
+
+This is the official implementation of our paper:
+
+> **A Triple Semantic-aware Knowledge Distillation Network for Industrial Defect Detection**<br>
+> Zhitao Wen, Jinhai Liu, He Zhao, Qiannan Wang
+
+[[PDF Paper](https://www.sciencedirect.com/science/article/pii/S016636152500017X)]
 
 ![struture](assets/framework.png)
 
